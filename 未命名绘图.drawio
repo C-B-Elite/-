@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T09:46:53.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4qxLAUmPoKyk6RAofEn_" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T09:58:05.325Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="W_tBcz3a7kAFrS9gR9q7" version="24.2.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="gitflow">
     <mxGraphModel dx="1194" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="Gbndnya8ysfOxjVIe13T-197" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 2&lt;/h1&gt;&lt;div&gt;user通过指定用户的user name【独一无二】获取用户的ip&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gbndnya8ysfOxjVIe13T-198" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DeTel Protocol [open source]&lt;/h1&gt;&lt;div&gt;1. 用户可以自由在不同的网络中切换，随时更换通讯的密钥进行加密通讯&lt;/div&gt;&lt;div&gt;后续可以增加密钥保留节点，以避免出现单点故障问题【burn cycle -&amp;gt; token reward&lt;span style=&quot;background-color: initial;&quot;&gt;】&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. AI Sumerize + Encrypted Storage ： GPT Integration&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Protocol：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. canister gossip : 将DeTel的Canister从单点拓展为网络&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="620" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
